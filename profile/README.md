@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-we build softwares by thinking first principles
+we build softwares by thinking from first principles
 
 <!--
 
